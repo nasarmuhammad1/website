@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="en-US" class="no-js stop-scroll">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="../xmlrpc.php">
+<link rel="icon" href="../wp-content/uploads/2021/09/Favicon.jpg" sizes="32x32">
+<link rel="icon" href="../wp-content/uploads/2021/09/Favicon.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="../wp-content/uploads/2021/09/Favicon.jpg">
+<meta name="msapplication-TileImage" content="../wp-content/uploads/2021/09/Favicon.jpg">
+<script>history.scrollRestoration = "manual"</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>About - Te4tech</title>
+<link rel="canonical" href="index.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About - Bison Studio" />
+<meta property="og:url" content="https://bison.studio/about/" />
+<meta property="og:site_name" content="Bison Studio" />
+<meta property="article:modified_time" content="2021-11-11T17:24:37+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Est. reading time" />
+<meta name="twitter:data1" content="3 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://bison.studio/#website","url":"https://bison.studio/","name":"Bison Studio","description":"Web Design, Development &amp; Digital Marketing","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bison.studio/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://bison.studio/about/#webpage","url":"https://bison.studio/about/","name":"About - Bison Studio","isPartOf":{"@id":"https://bison.studio/#website"},"datePublished":"2021-07-13T13:44:50+00:00","dateModified":"2021-11-11T17:24:37+00:00","breadcrumb":{"@id":"https://bison.studio/about/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bison.studio/about/"]}]},{"@type":"BreadcrumbList","@id":"https://bison.studio/about/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bison.studio/"},{"@type":"ListItem","position":2,"name":"About"}]}]}</script>
+
+<link rel='dns-prefetch' href='../index.html' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bison.studio\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='frontend-min-css' href='../wp-content/themes/bison-web/dist/frontend.minffa4.css?ver=19.07.2021.72' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/8.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.2" />
+<link rel='shortlink' href='../index2df4.html?p=8' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed4a87.json?url=https%3A%2F%2Fbison.studio%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedc916?url=https%3A%2F%2Fbison.studio%2Fabout%2F&amp;format=xml" />
+<style>
+        body:not(.site__template-mobile) .is-animation {
+            opacity: 0;
+        }
+    </style>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101155789-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-101155789-1');
+</script>
+<style>.line-height-0{    line-height: 0;}</style>
+</head>
+<body class="page-template page-template-page-builder page-template-page-builder-php page page-id-8 is-loading wpb-js-composer js-comp-ver-6.4.1 vc_responsive" data-barba="wrapper" style="overflow: hidden">
+<div class="pageLoading js-pageLoading">
+<div class="container pageLoading_wrap js-pageLoading_wrap">
+<div class="row justify-content-center">
+<div class="col-lg-6 col-sm-10 col-12">
+<ul class="pageLoading_images js-pageLoading_images">
+<li class="pageLoading_item pageLoading_item__w">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="886" height="416" src="../wp-content/uploads/2021/11/1.jpg" alt="image_loading">
+</div>
+</li>
+<li class="pageLoading_item pageLoading_item__h">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="433" height="622" src="../wp-content/uploads/2021/08/2-min.jpg" alt="image_loading">
+</div>
+</li>
+<li class="pageLoading_item pageLoading_item__w">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="886" height="416" src="../wp-content/uploads/2021/11/Rectangle-32.jpg" alt="image_loading">
+</div>
+</li>
+<li class="pageLoading_item pageLoading_item__h">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="433" height="622" src="../wp-content/uploads/2021/08/4-min.jpg" alt="image_loading">
+</div>
+</li>
+<li class="pageLoading_item pageLoading_item__w">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="886" height="416" src="../wp-content/uploads/2021/08/5-min.jpg" alt="image_loading">
+</div>
+</li>
+<li class="pageLoading_item pageLoading_item__h">
+<div class="js-pageLoading_item w-100 h-100">
+<img width="433" height="622" src="../wp-content/uploads/2021/08/6-min.jpg" alt="image_loading">
+</div>
+</li>
+</ul>
+<div class="pageLoading_number js-pageLoading_number heading__large">
+<div class="pageLoading_number_text js-pageLoading_number_text">
+<span>000</span>
+</div>
+<div class="pageLoading_processing">
+<span class="pageLoading_processing_bar js-pageLoading_bar"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header class="header js-header">
+<div class="container header_container">
+<div class="row d-flex align-items-center">
+<div class="col-1 text-left">
+<a class="header_logo js-header_logo" href="../index.html">
+<img src="../wp-content/themes/bison-web/dist/public/icons/bison-logo.svg" width="52.7" height="33" alt="logo">
+</a>
+</div>
+<div class="col-lg-4 col-12 d-lg-block d-none offset-lg-3">
+<nav id="header_menu" class="header_menu js-header_menu"><ul id="header_menu_primary" class="ul__reset header_menu_primary"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-13"><a href="index.html" aria-current="page"><span class="d-block">About</span></a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../services/index.html"><span class="d-block">Services</span></a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="../blogs/index.html"><span class="d-block">Blogs</span></a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="../contact/index.html"><span class="d-block">Contact</span></a></li>
+</ul></nav> </div>
+<div class="col-auto ml-lg-auto header_timer">
+<span class="header_timer_text js-header_timer_text">
+Lahore,Pakistan / <span class="js-timeZone"></span>
+</span>
+</div>
+<div class="col-auto d-lg-none d-block ml-auto">
+<button class="menuBtn js-menuBtn">
+<span class="menuBtn_line js-menuBtn_line"></span>
+<span class="menuBtn_line js-menuBtn_line"></span>
+</button>
+</div>
+</div>
+</div>
+</header><main class="viewPointer">
+<div class="main" data-scroll-container>
+<div class="pageContent js-pageContent" data-barba="container" data-barba-namespace="default"> <section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner about_heading container"><div class="row justify-content-center"><div class="col col-lg-8"><div class="col__inner"> <div class="row justify-content-center">
+<div class="col-lg-10 col-12">
+<h1 class="heading__page js-animation--lines--chars is-animation text-center text-red" data-screen-offset=".2">
+Solutions .Development. <br> Services. </h1>
+</div>
+</div>
+</div></div></div></div><div class="vc_inner about_thumbnail container"><div class="row"><div class="col"><div class="col__inner">
+<div class="wpb_single_image wpb_content_element vc_align_left   js-animation--scale is-animation">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1536" height="720" src="../wp-content/uploads/2021/11/studio-shot-50x23.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1536px) 100vw, 1536px" data-srcset="https://bison.studio/wp-content/uploads/2021/11/studio-shot.jpg 1536w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-300x141.jpg 300w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-1024x480.jpg 1024w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-768x360.jpg 768w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-50x23.jpg 50w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-844x396.jpg 844w, https://bison.studio/wp-content/uploads/2021/11/studio-shot-1152x540.jpg 1152w" role="img" /></div>
+</figure>
+</div>
+</div></div></div></div> <div class="spacing spacing__lg "></div>
+<div class="spacing spacing__wmd d-lg-block d-none"></div>
+</div></div></div></section><section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner about_top_info container"><div class="row"><div class="about_top_info_label mb-sm-0 mb-4 col-12 col-sm-2"><div class="col__inner">
+<div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
+<div class="wpb_wrapper">
+<p>about<br />
+Te4tech®/21</p>
+</div>
+</div>
+<div class="section__dot js-animation--fade--none mt-auto" data-screen-offset=""></div>
+</div></div><div class="col-12 col-sm-9 col-lg-8"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__large js-animation--lines" data-offset=".2">Are you looking for a tame and timid digital solution? Well.</h2></div></div></div></div> <div class="spacing spacing__wmd mb-lg-1"></div>
+<div class="vc_inner container"><div class="row"><div class="col-12 col-sm-2"><div class="col__inner"></div></div><div class="col-12 col-sm-9 col-lg-8"><div class="col__inner">
+<div class="wpb_text_column wpb_content_element  desc__large js-animation--lines">
+<div class="wpb_wrapper">
+<p>You won’t find any beasts of burden at Te4tech®. What you WILL find is a wild and unstoppable force dedicated to strategic thinking, great design and technical finesse. OUR TEAM IS BUSY GIVING AND PRODUCING OUTCLASS SOLUTIONS AND PRODUCTS AS PER OUR CLIENTS AND PARTNER'S NEEDS . Since charging onto the scene in 2019 we have carved our own path through the great plains of digital development &#8211; working with fantastic clients, chewing through tough problems and jumping at challenging projects.</p>
+</div>
+</div>
+</div></div></div></div> <div class="spacing spacing__lg mb-lg-1"></div>
+<div class="vc_inner container"><div class="row"><div class="col col-sm-6"><div class="col__inner"></div></div><div class="col-12 col-sm-5 col-lg-4"><div class="col__inner">
+<div class="wpb_text_column wpb_content_element  text-gray js-animation--fade">
+<div class="wpb_wrapper">
+<p>We hate trotting along behind the rest of the herd. We are passionate about design and digital development &#8211; and we specialise in building top notch user-experiences intelligently, effectively and profitably, on-time, every time. Our goal is to innovate with every project and treat each job as an opportunity to break the mould. We&#8217;ve been trusted by some of the largest companies on the island, working with multiple international clients and our work has won the largest international design awards.</p>
+</div>
+</div>
+</div></div><div class="ml-auto d-lg-block d-none col-auto"><div class="col__inner"> <a class="upSite upSite__next js-btnNextSection js-animation--fade--none" href="#next-section" data-screen-offset="" data-offset=``.15``>
+<span class="upSite_icon js-upSite_icon">
+<img width="38px" height="44px" src="../wp-content/themes/bison-web/dist/public/icons/icon-arrow-page.svg" class="svg upSite_arrow js-upSite_arrow" alt="icon-arrow-page">
+</span>
+<img src="../wp-content/themes/bison-web/dist/public/icons/icon-oval-upsite.svg" width="116" height="116" class="svg upSite_oval js-upSite_oval" alt="icon-oval-upsite">
+</a>
+</div></div></div></div> <div class="spacing spacing__xl "></div>
+<div class="spacing spacing__xs d-lg-block d-none"></div>
+<div class="container js-aboutTerms">
+<div class="row js-aboutTerm_item">
+<div class="col-sm-1 col-2 offset-sm-5 offset-2">
+<h6 class="section__number mb-0 ml-auto js-aboutTerm_item_fade section__number__heading js-animation--fade--none animation--fade is-handler is-animation-handler is-animation-completed">
+1</h6>
+</div>
+<div class="col-xl-3 col-lg-4 col-sm-5 col-8">
+<a href="../services/ecommerce/index.html">
+<h2 class="heading__term js-linkNone js-aboutTerm_item_char text-left mb-0">
+Web Development </h2>
+</a>
+</div>
+</div>
+<div class="row js-aboutTerm_item">
+<div class="col-sm-1 col-2 offset-sm-5 offset-2">
+<h6 class="section__number mb-0 ml-auto js-aboutTerm_item_fade section__number__heading js-animation--fade--none animation--fade is-handler is-animation-handler is-animation-completed">
+2</h6>
+</div>
+<div class="col-xl-3 col-lg-4 col-sm-5 col-8">
+<a href="../services/websites/index.html">
+<h2 class="heading__term js-linkNone js-aboutTerm_item_char text-left mb-0">
+Software Development </h2>
+</a>
+</div>
+</div>
+<div class="row js-aboutTerm_item">
+<div class="col-sm-1 col-2 offset-sm-5 offset-2">
+<h6 class="section__number mb-0 ml-auto js-aboutTerm_item_fade section__number__heading js-animation--fade--none animation--fade is-handler is-animation-handler is-animation-completed">
+3</h6>
+</div>
+<div class="col-xl-3 col-lg-4 col-sm-5 col-8">
+<a href="../services/digital-products/index.html">
+<h2 class="heading__term js-linkNone js-aboutTerm_item_char text-left mb-0">
+Digital Marketing </h2>
+</a>
+</div>
+</div>
+<div class="row js-aboutTerm_item">
+<div class="col-sm-1 col-2 offset-sm-5 offset-2">
+<h6 class="section__number mb-0 ml-auto js-aboutTerm_item_fade section__number__heading js-animation--fade--none animation--fade is-handler is-animation-handler is-animation-completed">
+4</h6>
+</div>
+<div class="col-xl-3 col-lg-4 col-sm-5 col-8">
+<a href="../services/digital-marketing/index.html">
+<h2 class="heading__term js-linkNone js-aboutTerm_item_char text-left mb-0">
+Business Intelligence Services </h2>
+</a>
+</div>
+</div>
+</div>
+<div class="spacing spacing__xxl "></div>
+</div></div></div></section><section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
+<div class="spacing spacing__md d-sm-block d-none"></div>
+<div class="spacing spacing__xs d-sm-none d-block"></div>
+</div></div></div></div>
+<div class="container aboutOur js-aboutOur">
+<div class="row mb-sm-0 mb-4">
+<div class="col-sm-1 col-6 order-0 mb-sm-0 mb-3">
+<p class="js-animation--lines text-left desc__still mb-0">
+the<br />
+comapny </p>
+</div>
+<div class="col-sm-3 col-12 offset-sm-1 order-sm-1 order-2 mb-sm-0 mb-4">
+<h2 class="js-animation--chars font-bold text-uppercase mb-0" data-offset=".15">
+our hq </h2>
+</div>
+<div class="col-lg-4 col-sm-5 col-12 offset-sm-1 order-sm-2 order-3">
+<div class="js-animation--lines desc__main mp-0" data-offset=".3">
+<p>One team. Many talents. A singular drive and focus. The people you meet and talk to will be the guys working on your brand, so there’s no disconnect between the thinking and the doing. And, we also pull in the very best independent talent – commissioning the outstanding technicians in their areas of expertise to deliver the amazing.</p>
+<p>Our comapny has evolved as the digital landscape has rapidly moved forward, with our services expanding to web development, software development, emerging tech innovation &amp; production</p>
+</div>
+</div>
+<div class="col-auto ml-auto order-sm-4 order-1 mb-sm-0 mb-3">
+<span class="section__dot js-animation--fade--none" data-offset=".45"></span>
+</div>
+</div>
+<span class="d-sm-block d-none spacing spacing__xl"></span>
+<span class="d-lg-block d-none spacing spacing__md"></span>
+<div class="row justify-content-center mb-lg-4">
+<div class="col-lg-4 col-12 aboutOur_interactive js-aboutOur_interactive js-handler-cursor--expand">
+<div class="aboutOur_interactive_inner js-aboutOur_interactive_inner">
+<div class="js-thumb__center thumb__item thumb__center object__image--fit" data-screen-offset="0">
+<img width="1168" height="1600" src="../wp-content/uploads/2021/08/center.jpg" class=" js-image--lazy" alt=""   role="img" /> </div>
+<div class="js-thumb__left_top thumb__item thumb__expand thumb__left_top object__image--fit" data-screen-offset="0">
+<img width="858" height="552" src="../wp-content/uploads/2021/11/bottom.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 858px) 100vw, 858px" role="img" /> </div>
+<div class="js-thumb__left_bottom thumb__item thumb__expand thumb__left_bottom object__image--fit" data-screen-offset="0">
+<img width="598" height="756" src="../wp-content/uploads/2021/08/bottom-left.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 598px) 100vw, 598px"  role="img" /> </div>
+<div class="js-thumb__right_top thumb__item thumb__expand thumb__right_top object__image--fit" data-screen-offset="0">
+<img width="406" height="388" src="../wp-content/uploads/2021/08/bottom-right.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 406px) 100vw, 406px" role="img" /> </div>
+<div class="js-thumb__right_bottom thumb__item thumb__expand thumb__right_bottom object__image--fit" data-screen-offset="0">
+<img width="990" height="732" src="../wp-content/uploads/2021/08/bottom-right.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 990px) 100vw, 990px" role="img" /> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacing spacing__xl d-sm-none d-block mb-lg-0 mb-2"></div>
+<div class="spacing spacing__xxl d-sm-block d-none"></div>
+</div></div></div></section><section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
+<div class="spacing spacing__md "></div>
+</div></div></div></div></div></div></div></section><section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col">
+<div class="teamsContainer">
+<div class="teamsContainer_header">
+<div class="container">
+<div class="row">
+<div class="col-sm-1 col-2 order-0">
+<span class="section__dot js-animation--fade--none"></span>
+</div>
+<div class="col-sm-6 col-12 mt-sm-0 mt-4 text-center offset-sm-2 order-sm-1 order-2">
+<h2 class="js-animation--chars font-bold text-uppercase" data-offset=".2">the herd</h2>
+<div class="js-animation--lines" data-offset=".3">
+We've got a great bunch of people, and an even better team. Te4tech® is a young, close-knit and fast growing team of professionals, driven by bold ideas and diverse perspectives.</p>
+<p>If you’re a fan of the work we do, this is your chance to meet the experts behind them. </div>
+</div>
+<div class="col-auto ml-auto order-sm-2 order-1">
+<p class="js-animation--lines desc__still mb-0" data-offset=".5">
+the<br />
+team </p>
+</div>
+</div>
+</div>
+</div>
+<span class="spacing spacing__md d-block mb-sm-0 mb-2"></span>
+<div class="js-teamsContainer teamsContainer_drag js-handler-cursor--drag">
+<div class="container">
+<div class="js-teamsContainer_container teamsContainer_container">
+<div class="teamsContainer_list js-teamsContainer_list row nowrap">
+<div class="team js-team col-lg-3 col-sm-5 col-8">
+<div class="team_thumbnail">
+<div class=" object__image--fit" data-screen-offset="0">
+<img width="458" height="610" src="../wp-content/uploads/2021/10/web-development.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 458px) 100vw, 458px" role="img" /> </div>
+</div>
+<div class="team_info js-team_info">
+<h3 class="team_info_name js-team_info_name heading__term">Web development</h3>
+<p class="team_info_position js-team_info_position desc__small__wide"></p>
+</div>
+</div>
+<div class="team js-team col-lg-3 col-sm-5 col-8">
+ <div class="team_thumbnail">
+<div class=" object__image--fit" data-screen-offset="0">
+<img width="458" height="610" src="../wp-content/uploads/2021/11/software-development.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 458px) 100vw, 458px"  role="img" /> </div>
+</div>
+<div class="team_info js-team_info">
+<h3 class="team_info_name js-team_info_name heading__term">Software Development</h3>
+<p class="team_info_position js-team_info_position desc__small__wide">AI powered apps</p>
+</div>
+</div>
+<div class="team js-team col-lg-3 col-sm-5 col-8">
+<div class="team_thumbnail">
+<div class=" object__image--fit" data-screen-offset="0">
+<img width="458" height="610" src="../wp-content/uploads/2021/11/mob-dev.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 458px) 100vw, 458px"  role="img" /> </div>
+</div>
+<div class="team_info js-team_info">
+<h3 class="team_info_name js-team_info_name heading__term">Mobile Development</h3>
+<p class="team_info_position js-team_info_position desc__small__wide">iOS/Andriod</p>
+</div>
+</div>
+<div class="team js-team col-lg-3 col-sm-5 col-8">
+<div class="team_thumbnail">
+<div class=" object__image--fit" data-screen-offset="0">
+<img width="458" height="610" src="../wp-content/uploads/2021/11/design.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 458px) 100vw, 458px"  role="img" /> </div>
+</div>
+<div class="team_info js-team_info">
+<h3 class="team_info_name js-team_info_name heading__term">Web Designing</h3>
+<p class="team_info_position js-team_info_position desc__small__wide">Frontend</p>
+</div>
+</div>
+<div class="team js-team col-lg-3 col-sm-5 col-8">
+<div class="team_thumbnail">
+<div class=" object__image--fit" data-screen-offset="0">
+<img width="458" height="610" src="../wp-content/uploads/2021/11/BIS.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 458px) 100vw, 458px" role="img" /> </div>
+</div>
+<div class="team_info js-team_info">
+<h3 class="team_info_name js-team_info_name heading__term">Business Intelligence Services</h3>
+<p class="team_info_position js-team_info_position desc__small__wide">BIS</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacing spacing__xxl "></div>
+</div></div></div></section><section data-scroll-section>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
+<div class="spacing spacing__md "></div>
+</div>
+<div class="row">
+<div class="col-10 offset-2">
+<span class="lineSection js-animation--lineSection d-block"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacing spacing__xxl "></div>
+</div></div></div></section>
+</div>
+<footer data-scroll-section class="footer">
+<div class="container">
+<div class="lineSection js-animation--lineSection"></div>
+<div class="row footer_row pt-lg-6 pt-sm-3 pt-2--0 footer_row__top">
+<div class="col-sm-1 col-12 js-animation--fade--none mb-sm-0 mb-4">
+<span class="section__dot"></span>
+</div>
+<div class="col-sm-6 col-12 js-animation--lines mp-0 mb-sm-0 mb-5">
+<div class="footer_desc desc__supper">
+<p>We love working alongside ambitious brands and people. <a class="js-linkNone" href="../cdn-cgi/l/email-protection.html#43212a302c2d03212a302c2d6e303736272a2c6d202c2e"><strong>Drop us a line</strong></a> if you&#8217;d like us to build something great together.</p>
+</div>
+</div>
+<div class="col-lg-1 col-sm-2 col-6 pt-lg-2 offset-lg-2 offset-sm-1 offset-6 js-animation--lines mb-sm-0 mb-5" data-offset=".2">
+<nav id="footer_menu" class="footer_menu"><ul id="footer_menu_list" class="footer_menu_list ul__reset"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20"><a href="../index.html"><span class="d-block">Home</span></a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-18"><a href="index.html" aria-current="page"><span class="d-block">About</span></a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="../services/index.html"><span class="d-block">Services</span></a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../contact/index.html"><span class="d-block">Contact</span></a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="../blogs/index.html"><span class="d-block">Blogs</span></a></li>
+</ul></nav> </div>
+<div class="col-lg-1 pt-lg-2 col-sm-2 col-6 offset-lg-1 offset-sm-0 offset-6">
+<ul class="footer_socials ul__reset js-animation--lines" data-offset=".4">
+<li><a target="_blank" href="https://www.facebook.com/bisonstudioux">Facebook</a></li>
+<li><a target="_blank" href="https://www.instagram.com/bison__studio/">Instagram</a>
+</li>
+<li><a target="_blank" href="#">Twitter</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/company/bison-studio/">LinkedIn</a></li>
+</ul>
+</div>
+</div>
+<div class="row footer_row align-items-end footer_row__bottom pt-sm-0 pt-5">
+<div class="col-sm-3 col-6 offset-sm-1 order-sm-0 order-1">
+<h5 class="heading__large mb-0">
+Bison®
+</h5>
+</div>
+<div class="col-lg-2 col-sm-3 col-6 offset-lg-5 offset-sm-4 order-sm-1 order-2">
+<ul class="ul__reset footer_contact mb-1-lg--5 mb-1 js-animation--lines">
+<li>
+<a class="text-uppercase text-white" href="../cdn-cgi/l/email-protection.html#e98b809a8687a98b809a8687c49a9d9c8d8086c78a8684"><span class="__cf_email__" data-cfemail="76141f05191836141f0519185b050203121f195815191b">[email&#160;protected]</span></a>
+</li>
+<li>
+<a class="text-uppercase text-white" href="tel:+356 99025480">+356 99025480</a>
+</li>
+</ul>
+<ul class="ul__reset footer_pages js-animation--lines">
+<li>
+<a class="text-gray text-uppercase" href="#">privacy policy</a>
+</li>
+<li>
+<a class="text-gray text-uppercase" href="#">terms and conditions</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-1 col-12 text-right order-sm-2 order-0">
+<a class="footer_upSite upSite js-upSite" href="#move-top">
+<span class="upSite_icon js-upSite_icon">
+<img width="38px" height="44px" src="../wp-content/themes/bison-web/dist/public/icons/icon-arrow-page.svg" class="svg upSite_arrow js-upSite_arrow" alt="icon-arrow-page">
+</span>
+<img width="116" height="116" src="../wp-content/themes/bison-web/dist/public/icons/icon-oval-upsite.svg" class="svg upSite_oval js-upSite_oval" alt="icon-oval-upsite">
+</a>
+</div>
+</div>
+</div>
+</footer></div>
+</main>
+<div class="noise-bg"></div>
+<div class="cursor js-cursor">
+<div class="cursor_bg js-cursor_bg"></div>
+<div class="cursor_drag js-cursor_drag">
+<div class="cursor_inner">
+<span class="cursor_text mb-0">
+<span class="js-cursor_text">
+DRAG
+</span>
+</span>
+</div>
+</div>
+<div class="cursor_link js-cursor_link">
+<div class="cursor_inner">
+<span class="cursor_text">
+<span class="js-cursor_text">
+VIEW
+</span>
+</span>
+<span class="cursor_link_icon">
+<img class="js-cursor_link_icon" src="../wp-content/themes/bison-web/dist/public/icons/icon-arrow-link.svg" alt="icon-arrow-link">
+</span>
+</div>
+</div>
+<div class="cursor_expand js-cursor_expand">
+<div class="cursor_inner">
+<span class="cursor_expand_icon">
+<img class="js-cursor_expand_icon__open cursor_expand_icon__open" src="../wp-content/themes/bison-web/dist/public/icons/icon-screen-enlarge.svg" alt="icon-screen-enlarge">
+<img class="js-cursor_expand_icon__close cursor_expand_icon__close" src="../wp-content/themes/bison-web/dist/public/icons/icon-expand-close.svg" alt="icon-expand-close">
+</span>
+</div>
+</div>
+</div>
+<svg class="js-shapeOverlays shapeOverlays" viewBox="0 0 100 100" preserveAspectRatio="none">
+<path class="shapeOverlays_path"></path>
+<path class="shapeOverlays_path"></path>
+<path class="shapeOverlays_path"></path>
+</svg>
+<div class="projectTransition js-projectTransition">
+<div class="projectTransition_inner js-projectTransition_inner">
+<div class="imageTransition js-imageTransition">
+</div>
+</div>
+</div>
+<div class="header_menuMobile js-header_menuMobile">
+<div class="container">
+<div class="header_menuMobile_inner">
+<div class="row">
+<div class="col-sm-4 col-6 header_menuMobile_col header_menuMobile_col__info">
+<div class="header_menuMobile_block">
+<span class="section__dot js-header_menuMobile_dot__social"></span>
+<ul class="header_menuMobile_socials js-header_menuMobile_socials ul__reset">
+<li><a target="_blank" href="https://www.facebook.com/bisonstudioux">Facebook</a></li>
+<li><a target="_blank" href="https://www.instagram.com/bison__studio/">Instagram</a>
+</li>
+<li><a target="_blank" href="#">Twitter</a>
+</li>
+<li><a target="_blank" href="https://www.linkedin.com/company/bison-studio/">LinkedIn</a></li>
+</ul>
+</div>
+<div class="header_menuMobile_block header_menuMobile_block__info">
+<span class="section__dot js-header_menuMobile_dot__info"></span>
+<p class="header_menuMobile_info js-header_menuMobile_info mb-0">
+Balal Road, San Gwann <br>
++356 99025480 <br>
+<a href="../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="5e3c372d31301e3c372d3130732d2a2b3a3731703d3133">[email&#160;protected]</a> </p>
+</div>
+</div>
+<div class="col-md-5 col-sm-4 col-6 offset-sm-3 header_menuMobile_col header_menuMobile_col__menu">
+<p class="header_menuMobile_label js-header_menuMobile_label">/menu</p>
+<nav id="header_menu_mobile" class="header_menu_mobile js-header_menu_mobile"><ul id="header_menu_mobile_primary" class="ul__reset header_menu_mobile_primary"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20"><a href="../index.html"><span class="d-block">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-18"><a href="index.html" aria-current="page"><span class="d-block">About</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="../services/index.html"><span class="d-block">Services</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../contact/index.html"><span class="d-block">Contact</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="../blogs/index.html"><span class="d-block">Blogs</span></a></li>
+</ul></nav> </div>
+</div>
+<div class="header_menuMobile_block header_menuMobile_block__heading">
+<h4 class="header_menuMobile_heading js-header_menuMobile_heading">
+Bison®
+</h4>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/html" id="wpb-modifications"></script><script type='text/javascript' async defer src='../wp-content/themes/bison-web/dist/vendors_frontend.bundleffa4.js?ver=19.07.2021.72' id='vendors-frontend-bundle-js'></script>
+<script type='text/javascript' id='frontend-bundle-js-extra'>
+/* <![CDATA[ */
+var wpData = {"ajaxUrl":"https:\/\/bison.studio\/wp-admin\/admin-ajax.php","iconUrl":"https:\/\/bison.studio\/wp-content\/themes\/bison-web\/dist\/public\/icons","videoURL":"https:\/\/bison.studio\/wp-content\/themes\/bison-web\/dist\/public\/videos","homeUrl":"https:\/\/bison.studio","urlSite":"https:\/\/bison.studio\/wp-content\/themes\/bison-web","media":"https:\/\/bison.studio\/wp-content\/themes\/bison-web\/dist\/public\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' async defer src='../wp-content/themes/bison-web/dist/frontend.bundleffa4.js?ver=19.07.2021.72' id='frontend-bundle-js'></script>
+</body>
+</html>
