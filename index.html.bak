@@ -502,7 +502,7 @@ View all works </span>
 <div class="projectCard js-animation--projectCard" data-offset="0">
 <a class="d-block font-0 js-handler-cursor--view" href="services/websites/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
-<img width="1532" height="1788" src="wp-content/uploads/2021/10/web-development.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1532px) 100vw, 1532px" " role="img" /> </div>
+<img src="wp-content/uploads/2021/10/web-development.jpg" alt="" loading="lazy">
 <div class="projectCard_info">
 <h3 class="projectCard_info_heading heading__medium js-projectCard--fade">
 Web Development</h3>
@@ -701,7 +701,6 @@ Read More </span>
 <div class="col-sm-6 col-12 js-animation--lines mp-0 mb-sm-0 mb-5">
 <div class="footer_desc desc__supper">
 <p>We love working alongside ambitious brands and clients. Always looking to make new partners.<a class="text-uppercase text-white" href="mailto:ceo.te4tech@gmail.com"<strong>Write us </strong></a> if you&#8217;d like us to build something great together.</p>
-<p>We love working alongside ambitious brands and clients. Always looking to make new partners.<a class="text-uppercase text-white" href="mailto:ceo.te4tech@gmail.com"<strong>Write us </strong></a> if you&#8217;d like us to build something great together.</p>
 </div>
 </div>
 <div class="col-lg-1 col-sm-2 col-6 pt-lg-2 offset-lg-2 offset-sm-1 offset-6 js-animation--lines mb-sm-0 mb-5" data-offset=".2">
@@ -713,11 +712,11 @@ Read More </span>
 </ul></nav> </div>
 <div class="col-lg-1 pt-lg-2 col-sm-2 col-6 offset-lg-1 offset-sm-0 offset-6">
 <ul class="footer_socials ul__reset js-animation--lines" data-offset=".4">
-<li><a target="_blank" href="https://www.facebook.com/bisonstudioux">Facebook</a></li>
-<li><a target="_blank" href="https://www.instagram.com/bison__studio/">Instagram</a>
+<li><a target="_blank" href="https://web.facebook.com/Te4techcom-109022428284196/">Facebook</a></li>
+<li><a target="_blank" href="https://www.instagram.com/te4tech.com_/?hl=en">Instagram</a>
 </li>
 <li><a target="_blank" href="#">Twitter</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/company/bison-studio/">LinkedIn</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/in/muhammad-nasarumminallah-50721a185/">LinkedIn</a></li>
 </ul>
 </div>
 </div>
