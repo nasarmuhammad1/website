@@ -12,22 +12,22 @@
 <script>history.scrollRestoration = "manual"</script>
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-<title>Digital Marketing - Te4tech</title>
+<title>Software Development - Te4Tech</title>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Boost - Bison Studio" />
-<meta property="og:description" content="High quality natural and organic products." />
-<meta property="og:url" content="https://bison.studio/work/boost/" />
+<meta property="og:title" content="Floreal - Bison Studio" />
+<meta property="og:description" content="Strengthen their digital presence by offering a whole new eCommerce experience that meets their customers’ growing needs to shop flowers online." />
+<meta property="og:url" content="https://bison.studio/work/floreal-ecommerce/" />
 <meta property="og:site_name" content="Bison Studio" />
-<meta property="article:modified_time" content="2021-11-22T08:34:44+00:00" />
-<meta property="og:image" content="http://bisontemp.bison.studio/wp-content/uploads/2021/11/Boost-thumb.jpg" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="1411" />
+<meta property="article:modified_time" content="2021-11-22T11:16:20+00:00" />
+<meta property="og:image" content="http://bison.studio/wp-content/uploads/2021/11/Floreal_Thumb-2.jpg" />
+<meta property="og:image:width" content="1150" />
+<meta property="og:image:height" content="1352" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:label1" content="Est. reading time" />
-<meta name="twitter:data1" content="4 minutes" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://bison.studio/#website","url":"https://bison.studio/","name":"Bison Studio","description":"Web Design, Development &amp; Digital Marketing","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bison.studio/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://bison.studio/work/boost/#primaryimage","inLanguage":"en-US","url":"https://bison.studio/wp-content/uploads/2021/11/Boost-thumb.jpg","contentUrl":"https://bison.studio/wp-content/uploads/2021/11/Boost-thumb.jpg","width":1200,"height":1411},{"@type":"WebPage","@id":"https://bison.studio/work/boost/#webpage","url":"https://bison.studio/work/boost/","name":"Boost - Bison Studio","isPartOf":{"@id":"https://bison.studio/#website"},"primaryImageOfPage":{"@id":"https://bison.studio/work/boost/#primaryimage"},"datePublished":"2021-11-05T09:31:10+00:00","dateModified":"2021-11-22T08:34:44+00:00","breadcrumb":{"@id":"https://bison.studio/work/boost/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bison.studio/work/boost/"]}]},{"@type":"BreadcrumbList","@id":"https://bison.studio/work/boost/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bison.studio/"},{"@type":"ListItem","position":2,"name":"Works","item":"https://bison.studio/work/"},{"@type":"ListItem","position":3,"name":"Boost"}]}]}</script>
+<meta name="twitter:data1" content="3 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://bison.studio/#website","url":"https://bison.studio/","name":"Bison Studio","description":"Web Design, Development &amp; Digital Marketing","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bison.studio/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://bison.studio/work/floreal-ecommerce/#primaryimage","inLanguage":"en-US","url":"https://bison.studio/wp-content/uploads/2021/11/Floreal_Thumb-2.jpg","contentUrl":"https://bison.studio/wp-content/uploads/2021/11/Floreal_Thumb-2.jpg","width":1150,"height":1352},{"@type":"WebPage","@id":"https://bison.studio/work/floreal-ecommerce/#webpage","url":"https://bison.studio/work/floreal-ecommerce/","name":"Floreal - Bison Studio","isPartOf":{"@id":"https://bison.studio/#website"},"primaryImageOfPage":{"@id":"https://bison.studio/work/floreal-ecommerce/#primaryimage"},"datePublished":"2021-11-05T11:42:28+00:00","dateModified":"2021-11-22T11:16:20+00:00","breadcrumb":{"@id":"https://bison.studio/work/floreal-ecommerce/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bison.studio/work/floreal-ecommerce/"]}]},{"@type":"BreadcrumbList","@id":"https://bison.studio/work/floreal-ecommerce/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bison.studio/"},{"@type":"ListItem","position":2,"name":"Works","item":"https://bison.studio/work/"},{"@type":"ListItem","position":3,"name":"Floreal"}]}]}</script>
 
 <link rel='dns-prefetch' href='../../index.html' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -53,9 +53,9 @@ img.emoji {
 <link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
-<link rel='shortlink' href='../../index2847.html?p=476' />
-<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedfbb8.json?url=https%3A%2F%2Fbison.studio%2Fwork%2Fboost%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embedc7c8?url=https%3A%2F%2Fbison.studio%2Fwork%2Fboost%2F&amp;format=xml" />
+<link rel='shortlink' href='../../indexf705.html?p=481' />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedcb7a.json?url=https%3A%2F%2Fbison.studio%2Fwork%2Ffloreal-ecommerce%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed311a?url=https%3A%2F%2Fbison.studio%2Fwork%2Ffloreal-ecommerce%2F&amp;format=xml" />
 <style>
         body:not(.site__template-mobile) .is-animation {
             opacity: 0;
@@ -74,7 +74,7 @@ img.emoji {
 </script>
 <style>.line-height-0{    line-height: 0;}</style>
 </head>
-<body class="product-template-default single single-product postid-476 is-loading wpb-js-composer js-comp-ver-6.4.1 vc_responsive" data-barba="wrapper" style="overflow: hidden">
+<body class="product-template-default single single-product postid-481 is-loading wpb-js-composer js-comp-ver-6.4.1 vc_responsive" data-barba="wrapper" style="overflow: hidden">
 <div class="pageLoading js-pageLoading">
 <div class="container pageLoading_wrap js-pageLoading_wrap">
 <div class="row justify-content-center">
@@ -85,7 +85,7 @@ img.emoji {
 <img width="886" height="416" src="../../wp-content/uploads/2021/11/1.jpg" alt="image_loading">
 </div>
 </li>
- <li class="pageLoading_item pageLoading_item__h">
+<li class="pageLoading_item pageLoading_item__h">
 <div class="js-pageLoading_item w-100 h-100">
 <img width="433" height="622" src="../../wp-content/uploads/2021/08/2-min.jpg" alt="image_loading">
 </div>
@@ -139,7 +139,7 @@ img.emoji {
 </ul></nav> </div>
 <div class="col-auto ml-lg-auto header_timer">
 <span class="header_timer_text js-header_timer_text">
-Lahore,Pakistan  / <span class="js-timeZone"></span>
+Lahore,Pakistan <span class="js-timeZone"></span>
 </span>
 </div>
 <div class="col-auto d-lg-none d-block ml-auto">
@@ -157,11 +157,11 @@ Lahore,Pakistan  / <span class="js-timeZone"></span>
 <div class="productSingle_header">
 <div class="productSingle_header_thumbnail js-productSingle_header_thumbnail">
 <div class=" object__image--fit" data-screen-offset="0">
-<img width="2880" height="1125" src="../../wp-content/uploads/2021/11/Boost_hero1-50x20.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 2880px) 100vw, 2880px" data-srcset="https://bison.studio/wp-content/uploads/2021/11/Boost_hero1.jpg 2880w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-300x117.jpg 300w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-1024x400.jpg 1024w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-768x300.jpg 768w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-1536x600.jpg 1536w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-2048x800.jpg 2048w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-50x20.jpg 50w, https://bison.studio/wp-content/uploads/2021/11/Boost_hero1-1584x618.jpg 1584w" role="img" /> </div>
+<img width="1536" height="720" src="../../wp-content/uploads/2021/11/software-development.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 1536px) 100vw, 1536px" role="img" /> </div>
 </div>
 <div class="container">
 <h1 class="productSingle_header_title text-center
-            heading__page text-white js-animation--lines--chars mb-lg-7 mb-3" data-screen-offset=".2">Boost</h1>
+            heading__page text-white js-animation--lines--chars mb-lg-7 mb-3" data-screen-offset=".2">Software Development</h1>
 <div class="productSingle_header_meta">
 <div class="row">
 <div class="col-lg-6 col-sm-5 col-6 order-sm-0 order-1">
@@ -171,39 +171,35 @@ Lahore,Pakistan  / <span class="js-timeZone"></span>
 Sort
 </p>
 <p class="metaValue desc__small text-white mb-0">
-Digital Marketing </p>
+Software development </p>
 </div>
 <div class="col-lg-4 col-12 js-animation--lines order-lg-1 order-sm-2 mt-lg-0 mt-sm-2 mb-sm-0 mb-3" data-offset=".15" data-screen-offset=".75">
 <p class="metaLabel desc__still text-gray">
-Category
- </p>
+ Category
+</p>
 <ul class="metaValue ul__reset">
 <li class="cat_item">
 <a href="#" class="desc__small linkNone js-linkNone text-white">
-E-Commerce </a>
+App Development </a>
 </li>
 </ul>
 </div>
 <div class="col-lg-4 col-sm-4 col-12 js-animation--lines order-lg-2 order-sm-1" data-offset=".3" data-screen-offset=".9">
-<p class="metaLabel desc__still text-gray">
-
-</p>
-<span class="metaValue desc__small text-white">
- </span>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-sm-7 col-12 order-sm-1 order-0 mb-sm-0 mb-4">
 <div class="mp-0 mb-lg-6 mb-sm-4 desc__medium text-white js-animation--lines text-uppercase" data-offset=".5" data-screen-offset="1.05">
-<p>We Strengthen your digital presence by offering you a whole new eCommerce experience that meets your and your customers&rsquo; growing needs to shop from you online.</p>
+<p><span style="font-weight: 400;">Enabling bussiness agiligty and efficieny with power custom software development. Our team turns your ideas and dreams into Applications using powerfull Windowns development tools and uptodated knowledge.</span></p>
 </div>
 <p class="sectionInfo_link js-animation--fade sectionInfo_link__left d-sm-block d-none" data-offset=".5" data-screen-offset="1.15">
-</a>
+<span class="linkPage_icon">
+<img class="js-linkPage_img" width="14" height="14" src="../../wp-content/themes/bison-web/dist/public/icons/icon-arrow-link.svg" alt="icon-arrow-link">
+</span>
+<span class="linkPage_line js-linkPage_line"></span>
 </p>
 </div>
-<div class="col-6 d-sm-none d-block order-2 mt-1">
-<p class="sectionInfo_link js-animation--fade sectionInfo_link__left" data-offset=".5" data-screen-offset="1.15">
-</a>
+<div >
 </p>
 </div>
 <div class="col-auto ml-auto d-lg-block d-none order-3">
@@ -220,16 +216,19 @@ E-Commerce </a>
 </div>
 <div class="productSingle_content">
 <section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="spacing spacing__xl "></div>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xl "></div>
+<div class="spacing spacing__xs "></div>
+<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
 <div class="wpb_single_image wpb_content_element vc_align_left">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2000" height="900" src="../../wp-content/uploads/2021/11/boost-mockup-3-50x23.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 2000px) 100vw, 2000px" data-srcset="https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3.jpg 2000w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-300x135.jpg 300w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-1024x461.jpg 1024w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-768x346.jpg 768w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-1536x691.jpg 1536w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-50x23.jpg 50w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-1100x495.jpg 1100w, https://bison.studio/wp-content/uploads/2021/11/boost-mockup-3-1500x675.jpg 1500w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2000" height="900" src="../../wp-content/uploads/2021/11/soft-dev.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 2000px) 100vw, 2000px" role="img" /></div>
 </figure>
 </div>
 </div></div></div></div> <div class="spacing spacing__xl "></div>
+<div class="spacing spacing__xs "></div>
 </div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
-<div class="spacing spacing__md "></div>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__md "></div>
+<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
 <div class="spacing spacing__md "></div>
 </div></div></div></div><div class="vc_inner container"><div class="row"><div class="order-0 mb-lg-0 mb-4 col-10 col-lg-1"><div class="col__inner">
 <div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
@@ -237,20 +236,25 @@ E-Commerce </a>
 <p>THE challenge</p>
 </div>
 </div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading mb-0 text-uppercase font-bold js-animation--chars d-lg-block d-none" data-offset=".15">A one-stop shop for all your health needs</h2><h2 style="text-align: left" class="vc_custom_heading mb-0 text-uppercase font-bold js-animation--chars d-lg-none d-block" data-offset=".15">A one-stop shop for all your health needs</h2></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner">
+</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading mb-0 text-uppercase font-bold js-animation--chars d-lg-block d-none" data-offset=".15">Digital Transformation</h2><h2 style="text-align: left" class="vc_custom_heading mb-0 text-uppercase font-bold js-animation--chars d-lg-none d-block" data-offset=".15">Digital Transformation</h2></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner">
 <div class="wpb_text_column wpb_content_element  desc__large js-animation--lines" data-offset=".3">
 <div class="wpb_wrapper">
-<p>Boost approached us to help bring their digital concept to life. Our collaboration was focused on creating an online platform that acts as a one-stop shop for all your health needs. We made sure that the website is focused on educating and helping users in finding the right products for their daily lives.</p>
+<p>In many organizations,<span style="font-weight: 400;"> Enterprise Resource Planning (ERP) applications are the Glue that holds the organization together. Moreover, the applications need to be available and performing optimally or the entire organization is brought to its knees.  ERP Applications deliver automated, intelligent monitoring of applications specific parameters and produce results and performance as per the needs of the organization and ensures smooth functioning.</span></p>
+</div>
+</div>
+<div class="spacing spacing__xs "></div>
+<div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
+<div class="wpb_wrapper">
+<p>Through digital strategy we created a new design system, content strategy, and completely transformed the clients digitally. We introduced new features and experiences within the frameworks to improve the customer journey, organised product shoots for all their products, and gave customers a platform to easily purchase and engage with the brand more frequently and on a deeper level.</p>
 </div>
 </div>
 <div class="spacing spacing__md "></div>
 </div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__sm d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
+</div></div></div></div> <div class="spacing spacing__md "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
 <div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1800" height="1500" src="../../wp-content/uploads/2021/10/full-boost-2-50x42.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1800px) 100vw, 1800px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/full-boost-2.jpg 1800w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-300x250.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-1024x853.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-768x640.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-1536x1280.jpg 1536w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-50x42.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-990x825.jpg 990w, https://bison.studio/wp-content/uploads/2021/10/full-boost-2-1350x1125.jpg 1350w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="600" src="../../wp-content/uploads/2021/11/soft-dev 2.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1000px) 100vw, 1000px"  role="img" /></div>
 </figure>
 </div>
 </div></div></div></div></div></div></div></section><section data-scroll-section>
@@ -264,176 +268,85 @@ E-Commerce </a>
 <p><b>Content Strategy</b></p>
 </div>
 </div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Health, Redefined.</h2>
+</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Mobile Apps Development Services</</h2>
 <div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
 <div class="wpb_wrapper">
-<p>Through our research and strategy, we came to the conclusion that we needed to create a website that was not focused on active, athletes and sports persons only. Boost is a brand that connects with anyone who wants to improve their health.</p>
+<p><span style="font-weight: 400;">Mobile Apps Development Services. When it comes to mobile applications and mobile development services, we are leading this world in Pakistan. Whether it is android version or ios version, we are adept and deft and our designers are making fascinating and incredible innovations in mobile industry. Our android developers are making application keeping in minds the pros and cons. We know what is user friendly applications are and we are merging them at a platform where mobile companies can execute their versatility to produce contemporary versions of android app services in Pakistan and ipad Apps.&nbsp;</span></p>
 </div>
 </div>
 <div class="spacing spacing__md "></div>
 </div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__md d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
+</div></div></div></div> <div class="spacing spacing__md "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
 <div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="900" src="../../wp-content/uploads/2021/10/home-3-50x45.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1000px) 100vw, 1000px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/home-3.jpg 1000w, https://bison.studio/wp-content/uploads/2021/10/home-3-300x270.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/home-3-768x691.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/home-3-50x45.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/home-3-550x495.jpg 550w, https://bison.studio/wp-content/uploads/2021/10/home-3-750x675.jpg 750w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="900" src="../../wp-content/uploads/2021/10/softw.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1000px) 100vw, 1000px"  role="img" /></div>
 </figure>
 </div>
 </div></div></div></div></div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xl "></div>
-<div class="spacing spacing__xs "></div>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xxl "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
 <div class="spacing spacing__md "></div>
 </div></div></div></div><div class="vc_inner container"><div class="row"><div class="order-0 mb-lg-0 mb-4 col-10 col-lg-1"><div class="col__inner">
 <div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
 <div class="wpb_wrapper">
-<p><strong><span data-preserver-spaces="true">Digital Strategy</span></strong></p>
+<p><b>UX</b></p>
 </div>
 </div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Experience Design</h2>
+</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Android Apps</h2>
 <div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
 <div class="wpb_wrapper">
-<p>The merchandising and customer experiences within the supplements and health industry in Malta are mainly based on retail showrooms.</p>
-<p>Since Boost is a digital brand we took these experience principles and brought them to the boost digital platform. Our approach makes it simple for customers to navigate the site, explore categories, and find the products that best suit their needs.</p>
+<p>As far as producing new profitable applications are concerned, we are second to none and we’re bringing much needed innovation on the table. In a very short span of time, we can produce breaking new ground sort of applications for our customers which will surely provide comfort to huge population who is currently using android version. In short we are your one stop solution as far as android versions are concerned.</p>
 </div>
 </div>
 <div class="spacing spacing__md "></div>
 </div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__md d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
+</div></div></div></div> <div class="spacing spacing__md "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
 <div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="900" src="../../wp-content/uploads/2021/10/products-3-50x45.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1000px) 100vw, 1000px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/products-3.jpg 1000w, https://bison.studio/wp-content/uploads/2021/10/products-3-300x270.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/products-3-768x691.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/products-3-50x45.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/products-3-550x495.jpg 550w, https://bison.studio/wp-content/uploads/2021/10/products-3-750x675.jpg 750w" role="img" /></div>
-</figure>
-</div>
-</div></div></div></div></div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xs "></div>
-<div class="spacing spacing__xl "></div>
-<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
-<div class="spacing spacing__md "></div>
-</div></div></div></div><div class="vc_inner container"><div class="row"><div class="order-0 mb-lg-0 mb-4 col-10 col-lg-1"><div class="col__inner">
-<div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
-<div class="wpb_wrapper">
-<p><strong><span data-preserver-spaces="true">User-Friendly architecture </span></strong></p>
-</div>
-</div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Establishing a design system to inspire, inform, and convert.</h2>
-<div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
-<div class="wpb_wrapper">
-<p>The boost website uses intentional design to invite customers into the shopping funnel. The use of branded categories was created in order to give each section a specific look and feel.</p>
-</div>
-</div>
-<div class="spacing spacing__md "></div>
-</div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__md d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
-<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
-<div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
-<figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/10/productidv-6-50x30.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/productidv-6.jpg 1100w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-300x182.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-1024x622.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-768x466.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-50x30.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-605x367.jpg 605w, https://bison.studio/wp-content/uploads/2021/10/productidv-6-825x501.jpg 825w" role="img" /></div>
-</figure>
-</div>
-</div></div></div></div></div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__lg "></div>
-<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
-<div class="spacing spacing__md "></div>
-</div></div></div></div><div class="vc_inner container"><div class="row"><div class="order-0 mb-lg-0 mb-4 col-10 col-lg-1"><div class="col__inner">
-<div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
-<div class="wpb_wrapper">
-<p><b>Personalisation</b><strong><span data-preserver-spaces="true"> </span></strong></p>
-</div>
-</div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Personalised shopping features</h2>
-<div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
-<div class="wpb_wrapper">
-<p>The supplement and beauty industry is flooded with products and new customers might feel overwhelmed with choices. An interactive quiz was created in order to help users find the right products based on their needs.</p>
-</div>
-</div>
-<div class="spacing spacing__md "></div>
-</div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__md d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
-<div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
-<div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
-<figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/10/quiz-6-50x30.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/quiz-6.jpg 1100w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-300x182.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-1024x622.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-768x466.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-50x30.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-605x367.jpg 605w, https://bison.studio/wp-content/uploads/2021/10/quiz-6-825x501.jpg 825w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/11/mob-dev.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" role="img" /></div>
 </figure>
 </div>
 </div></div></div></div><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
 <div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/10/quiz-results-6-50x30.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/quiz-results-6.jpg 1100w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-300x182.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-1024x622.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-768x466.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-50x30.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-605x367.jpg 605w, https://bison.studio/wp-content/uploads/2021/10/quiz-results-6-825x501.jpg 825w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/11/mob.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" role="img" /></div>
+</figure>
+</div>
+</div></div></div></div><div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
+<div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1100" height="668" src="../../wp-content/uploads/2021/11/andr.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1100px) 100vw, 1100px" role="img" /></div>
 </figure>
 </div>
 </div></div></div></div></div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xs "></div>
-<div class="spacing spacing__xl "></div>
+<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="spacing spacing__xxl "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner"> <div class="lineSection js-animation--lineSection " data-screen-offset=""></div>
 <div class="spacing spacing__md "></div>
 </div></div></div></div><div class="vc_inner container"><div class="row"><div class="order-0 mb-lg-0 mb-4 col-10 col-lg-1"><div class="col__inner">
 <div class="wpb_text_column wpb_content_element  desc__still text-left mp-0 js-animation--lines">
 <div class="wpb_wrapper">
-<p><b>Mobile First</b></p>
+<p><strong>Iphone apps</strong></p>
 </div>
 </div>
-</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">Combining form and function to meet customer needs.</h2>
+</div></div><div class="order-lg-1 order-2 mb-sm-0 mb-4 d-sm-block d-none col col-sm-4 col-lg-3 offset-lg-1"><div class="col__inner"></div></div><div class="order-3 col-12 col-sm-6 col-lg-5 offset-sm-1 offset-lg-1"><div class="col__inner"><h2 style="text-align: left" class="vc_custom_heading heading__content js-animation--lines" data-offset=".15">iOS Development</h2>
 <div class="wpb_text_column wpb_content_element  text-gray js-animation--fade" data-offset=".3">
 <div class="wpb_wrapper">
-<p>Since the majority of today&#8217;s web traffic comes from mobile, we established a responsive site framework that optimizes design attributes and user-experience decisions across form factors.</p>
+<p>A large community is using iphone in current world. This is a version that is elite out of all and our developers are making it even more valuable for customers. We will surely build you application which can compete at international level to get the ball rolling for your organization.</p>
 </div>
 </div>
 <div class="spacing spacing__md "></div>
 </div></div><div class="ml-auto order-lg-4 order-1 mb-lg-0 mb-4 col-auto col-lg-auto"><div class="col__inner"> <div class="section__dot js-animation--fade--none " data-screen-offset="" data-offset=``.6``></div>
-</div></div></div></div> <div class="spacing spacing__md d-lg-block d-none"></div>
-<div class="spacing spacing__xxl d-lg-none d-block"></div>
+</div></div></div></div> <div class="spacing spacing__md "></div>
 <div class="vc_inner container"><div class="row"><div class="col"><div class="col__inner">
-<div class="wpb_single_image wpb_content_element vc_align_left">
+<div data-offset=".15" class="wpb_single_image wpb_content_element vc_align_center   js-animation--fade">
 <figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2000" height="900" src="../../wp-content/uploads/2021/11/boostmobile-3-50x23.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 2000px) 100vw, 2000px" data-srcset="https://bison.studio/wp-content/uploads/2021/11/boostmobile-3.jpg 2000w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-300x135.jpg 300w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-1024x461.jpg 1024w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-768x346.jpg 768w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-1536x691.jpg 1536w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-50x23.jpg 50w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-1100x495.jpg 1100w, https://bison.studio/wp-content/uploads/2021/11/boostmobile-3-1500x675.jpg 1500w" role="img" /></div>
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1200" height="600" src="../../wp-content/uploads/2021/10/floreal-mobile9-50x25.jpg" class="vc_single_image-img attachment-full js-image--lazy" alt="" sizes="(max-width: 1200px) 100vw, 1200px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9.jpg 1200w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-300x150.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-1024x512.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-768x384.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-50x25.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-660x330.jpg 660w, https://bison.studio/wp-content/uploads/2021/10/floreal-mobile9-900x450.jpg 900w" role="img" /></div>
 </figure>
 </div>
 <div class="spacing spacing__xxl "></div>
-</div></div></div></div></div></div></div></section><section data-scroll-section>
-<div class="wpb_row vc_row-fluid"><div class="row"><div class="col"> <div class="testimonial">
-<div class="container">
-<div class="lineSection js-animation--lineSection"></div>
-<span class="d-block spacing spacing__md"></span>
-<div class="row mb-lg-0 mb-4">
-<div class="col-sm-4 col-6">
-<div class="testimonial_label"><span class="section__dot js-animation--fade--none"></span></div>
-</div>
-<div class="offset-2 col-5 d-lg-block d-none">
-<div class="testimonial_label testimonial_label__quote js-animation--fade--none" data-offset=".15">“
-</div>
-</div>
-<div class="col-lg-1 col-sm-2 col-3 ml-auto">
-<p class="desc__still text-right js-animation--lines mb-0" data-offset=".3">
-WHAT THEY<br />
-SAID. </p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-4 col-12">
- <h2 class="font-bold text-uppercase text-white js-animation--chars" data-offset=".1">TESTIMONIALS</h2>
-</div>
-<div class="offset-lg-2 offset-sm-1 col-lg-5 col-sm-7 col-12">
-<div class="testimonial_label d-lg-none d-block testimonial_label__quote js-animation--fade--none" data-offset=".15">“
-</div>
-<div class="testimonial_content js-animation--lines" data-offset=".25">
-<p>The team at Bison exceeded my expectations with our new online health shop. At the beginning of the process, our main goal was to make the website as user friendly as possible, so that customers can find exactly what they&#8217;re looking for. The end product was fantastic, I haven&#8217;t seen many Maltese websites with such a great UX &amp; unique design! We are so happy with our website and since launching, we&#8217;ve received only positive feedback!</p>
-</div>
-<div class="js-animation--fade" data-offset=".3">
-<p class="testimonial_name">Julia Tabone</p>
-<p class="testimonial_position">Marketing Coordinator</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<span class="d-block spacing spacing__xxl"></span>
-</div></div></div></section>
+</div></div></div></div></div></div></div></section>
 </div>
 <div class="productSingle_next js-productSingle_next">
 <div class="container">
@@ -444,11 +357,11 @@ SAID. </p>
 <div class="productSingle_next_thumbnails">
 <div class="productSingle_next_thumbnail productSingle_next_thumbnail__card js-productSingle_next_thumbnail__card">
 <div class=" object__image--fit" data-screen-offset="0">
-<img width="766" height="902" src="../../wp-content/uploads/2021/10/bukkun-50x59.jpg" class=" js-image--lazy" alt="Bukkun eCommerce store" sizes="(max-width: 766px) 100vw, 766px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/bukkun.jpg 766w, https://bison.studio/wp-content/uploads/2021/10/bukkun-255x300.jpg 255w, https://bison.studio/wp-content/uploads/2021/10/bukkun-50x59.jpg 50w, https://bison.studio/wp-content/uploads/2021/10/bukkun-421x496.jpg 421w, https://bison.studio/wp-content/uploads/2021/10/bukkun-574x676.jpg 574w" role="img" /> </div>
+<img width="1200" height="1411" src="../../wp-content/uploads/2021/11/Boost-thumb-50x59.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 1200px) 100vw, 1200px"  role="img" /> </div>
 </div>
 <div class="productSingle_next_thumbnail productSingle_next_thumbnail__hero js-productSingle_next_thumbnail__hero">
 <div class=" object__image--fit" data-screen-offset="0">
-<img width="3840" height="1500" src="../../wp-content/uploads/2021/10/Rectangle-29-50x20.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 3840px) 100vw, 3840px" data-srcset="https://bison.studio/wp-content/uploads/2021/10/Rectangle-29.jpg 3840w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-300x117.jpg 300w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-1024x400.jpg 1024w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-768x300.jpg 768w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-1536x600.jpg 1536w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-2048x800.jpg 2048w, https://bison.studio/wp-content/uploads/2021/10/Rectangle-29-50x20.jpg 50w" role="img" /> </div>
+<img width="2880" height="1125" src="../../wp-content/uploads/2021/11/Boost_hero1-50x20.jpg" class=" js-image--lazy" alt="" sizes="(max-width: 2880px) 100vw, 2880px" role="img" /> </div>
 </div>
 </div>
 </div>
@@ -586,7 +499,7 @@ VIEW
 <p class="header_menuMobile_info js-header_menuMobile_info mb-0">
 Barkat Market, Lahore <br>
 +923146946691 <br>
-<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="97f5fee4f8f9d7f5fee4f8f9bae4e3e2f3fef8b9f4f8fa">[email&#160;protected]</a> </p>
+<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="d6b4bfa5b9b896b4bfa5b9b8fba5a2a3b2bfb9f8b5b9bb">[email&#160;protected]</a> </p>
 </div>
 </div>
 <div class="col-md-5 col-sm-4 col-6 offset-sm-3 header_menuMobile_col header_menuMobile_col__menu">

@@ -480,7 +480,7 @@ View all works </span>
 </a>
 </div>
 <div class="projectLabel d-sm-none d-block">
-<a href="services.html" class="linkPage js-linkPage " target="" rel="">
+<a href="services/index.html" class="linkPage js-linkPage " target="" rel="">
 <span class="linkPage_text">
 View all works </span>
 <span class="linkPage_icon">
@@ -500,7 +500,7 @@ View all works </span>
 <div class="row flex-nowrap sectionProjects_row js-sectionProjects_trans sectionProjects_row__cards">
 <div class="col-lg-3 col-sm-5 col-8">
 <div class="projectCard js-animation--projectCard" data-offset="0">
-<a class="d-block font-0 js-handler-cursor--view" href="services/websites.html">
+<a class="d-block font-0 js-handler-cursor--view" href="services/websites/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
 <img width="1532" height="1788" src="wp-content/uploads/2021/10/web-development.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1532px) 100vw, 1532px" " role="img" /> </div>
 <div class="projectCard_info">
@@ -518,7 +518,7 @@ Our team is Bringing best in class web solutions powered with AI, Our web develo
 </div>
 <div class="col-lg-3 col-sm-5 col-8">
 <div class="projectCard js-animation--projectCard" data-offset="0.15">
-<a class="d-block font-0 js-handler-cursor--view" href="work/floreal-ecommerce/index.html">
+<a class="d-block font-0 js-handler-cursor--view" href="work/software-development/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
 <img width="1150" height="1352" src="wp-content/uploads/2021/11/software-development.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1150px) 100vw, 1150px" role="img" /> </div>
 <div class="projectCard_info">
@@ -552,7 +552,7 @@ We Strengthen your digital presence by offering you a whole new eCommerce experi
 </div>
 <div class="col-lg-3 col-sm-5 col-8">
 <div class="projectCard js-animation--projectCard" data-offset="0.45">
-<a class="d-block font-0 js-handler-cursor--view" href="work/prosper-africa/index.html">
+<a class="d-block font-0 js-handler-cursor--view" href="work/BIS/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
  <img width="1534" height="1804" src="wp-content/uploads/2021/10/BIS.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1534px) 100vw, 1534px" role="img" /> </div>
 <div class="projectCard_info">
@@ -605,7 +605,7 @@ View all blogs </span>
 <div class="row mb-0">
 <ul class="sectionNews_list col-sm-9 col-12 container-col-9 offset-sm-3">
 <li class="postList js-postList js-animation--fade">
-<a href="blogs/introducing-the-new-bison-studio-website/index.html" class="row font-0">
+<a href="blogs/website-testing/index.html" class="row font-0">
 <div class="col-sm-4 col-12 mb-sm-0 mb-1--5">
 <div class="postList_thumbnail image__object-fit">
 <img width="1024" height="701" src="wp-content/uploads/2021/07/web-testing.jpg" class="attachment-full size-full js-image--lazy wp-post-image" alt="" sizes="(max-width: 1024px) 100vw, 1024px"  role="img" /> </div>
@@ -632,7 +632,7 @@ Read More </span>
 </a>
 </li>
 <li class="postList js-postList js-animation--fade">
-<a href="blogs/expanding-our-services-digital-marketing/index.html" class="row font-0">
+<a href="blogs/software-industry/index.html" class="row font-0">
 <div class="col-sm-4 col-12 mb-sm-0 mb-1--5">
 <div class="postList_thumbnail image__object-fit">
 <img width="1024" height="701" src="wp-content/uploads/2021/07/dev.jpg" class="attachment-full size-full js-image--lazy wp-post-image" alt="" sizes="(max-width: 1024px) 100vw, 1024px"  role="img" /> </div>
@@ -659,7 +659,7 @@ Read More </span>
 </a>
 </li>
 <li class="postList js-postList js-animation--fade">
-<a href="blogs/mercury-towers-by-zaha-hadid-wins-international-awards/index.html" class="row font-0">
+<a href="blogs/SEO-trends/index.html" class="row font-0">
 <div class="col-sm-4 col-12 mb-sm-0 mb-1--5">
 <div class="postList_thumbnail image__object-fit">
 <img width="1024" height="701" src="wp-content/uploads/2021/07/seo-trend.jpg" class="attachment-full size-full js-image--lazy wp-post-image" alt="" sizes="(max-width: 1024px) 100vw, 1024px"role="img" /> </div>
@@ -732,7 +732,7 @@ Te4tech®
 <a class="text-uppercase text-white" href="mailto:ceo.te4tech@gmail.com">ceo.te4tech@gmail.com</a>
 </li>
 <li>
-<a class="text-uppercase text-white" href="tel:+923149646691">+923149646691</a>
+<a class="text-uppercase text-white" href="tel:+923146946691">+923146946691</a>
 </li>
 </ul>
 <ul class="ul__reset footer_pages js-animation--lines">
@@ -820,7 +820,7 @@ VIEW
 <span class="section__dot js-header_menuMobile_dot__info"></span>
 <p class="header_menuMobile_info js-header_menuMobile_info mb-0">
 Barkat Market, Lahore <br>
-+923149646691 <br>
++923146946691 <br>
 </div>
 </div>
 <div class="col-md-5 col-sm-4 col-6 offset-sm-3 header_menuMobile_col header_menuMobile_col__menu">

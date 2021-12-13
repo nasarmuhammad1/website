@@ -135,7 +135,7 @@ img.emoji {
 </ul></nav> </div>
 <div class="col-auto ml-lg-auto header_timer">
 <span class="header_timer_text js-header_timer_text">
-San Gwann / <span class="js-timeZone"></span>
+Lahore,Pakistan / <span class="js-timeZone"></span>
 </span>
 </div>
 <div class="col-auto d-lg-none d-block ml-auto">
@@ -215,11 +215,11 @@ Get direction </span>
 </div>
 <div class="mb-lg-6 mb-3 js-animation--lines" data-offset=".25" data-screen-offset="1.9">
 <span class="d-block desc__still contactInfo_label text-left text-gray">Number</span>
-<a href="tel:+923004517995" class="d-block desc__small text-uppercase text-white">+923004517995</a>
+<a class="text-uppercase text-white" href="tel:+923149646691">+923149646691</a>
 </div>
 <div class="mb-sm-0 mb-3 js-animation--lines" data-offset=".25" data-screen-offset="2">
 <span class="d-block desc__still contactInfo_label text-left text-gray">Email</span>
-<a class="d-block desc__small text-uppercase text-white" href="../cdn-cgi/l/email-protection.html#b191d3d8c2dedff1d3d8c2dedf9cc2c5c4d5d8de9fd2dedc"><span class="__cf_email__" data-cfemail="b9dbd0cad6d7f9dbd0cad6d794cacdccddd0d697dad6d4">[email&#160;protected]</span></a>
+<a class="text-uppercase text-white" href="mailto:ceo.te4tech@gmail.com">ceo.te4tech@gmail.com</a>
 </div>
 </div>
 <div class="col-lg-6 col-sm-5 col-12">
@@ -238,12 +238,12 @@ Get direction </span>
 <span class="d-block desc__still contactInfo_label text-left text-gray">Social</span>
 <ul class="ul__reset js-animation--lines">
 <li>
-<a target="_blank" class="desc__small text-uppercase text-white" href="https://www.instagram.com/bison__studio/">
+<a target="_blank" class="desc__small text-uppercase text-white" href="https://www.instagram.com/te4tech.com_/?hl=en">
 Instagram
 </a>
 </li>
 <li>
-<a target="_blank" class="desc__small text-uppercase text-white" href="https://www.facebook.com/bisonstudioux">
+<a target="_blank" class="desc__small text-uppercase text-white" href="https://web.facebook.com/Te4techcom-109022428284196/">
 Facebook
 </a>
 </li>
