@@ -517,7 +517,7 @@ Our team is Bringing best in class web solutions powered with AI, Our web develo
 </div>
 </div>
 <div class="col-lg-3 col-sm-5 col-8">
-<div class="projectCard js-animation--projectCard" data-offset="0.15">
+<div class="projectCard js-animation--projectCard" data-offset="0.3">
 <a class="d-block font-0 js-handler-cursor--view" href="work/software-development/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
 <img width="1150" height="1352" src="wp-content/uploads/2021/11/software-development.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1150px) 100vw, 1150px" role="img" /> </div>
