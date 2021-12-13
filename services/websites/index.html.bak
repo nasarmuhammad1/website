@@ -272,7 +272,6 @@ We choose eye catching designs for your websites </p>
 </div>
 <div class="col-lg-3 col-sm-5 col-8">
 <div class="projectCard js-animation--projectCard" data-offset="0.3">
-<a class="d-block font-0 js-handler-cursor--view" href="../../work/marina-di-valletta-2/index.html">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
 <img width="768" height="904" src="../../wp-content/uploads/2021/11/dev.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 768px) 100vw, 768px" role="img" /> </div>
 <div class="projectCard_info">
@@ -281,7 +280,6 @@ Development </h3>
 <p class="projectCard_info_desc js-projectCard--lines">
 Then we develop the website according to the information gathered.</p>
 </div>
-</a>
 </div>
 </div>
 <div class="col-lg-3 col-sm-5 col-8">
