@@ -257,11 +257,10 @@ Understanding the requirements is first step in development.
 </p>
 </div>
 </div>
-</div>
 <div class="col-lg-3 col-sm-5 col-8">
-<div class="projectCard js-animation--projectCard" data-offset="0.15">
+<div class="projectCard js-animation--projectCard" data-offset="0.75">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
-<img width="1534" height="1804" src="../../wp-content/uploads/2021/11/design.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1534px) 100vw, 1534px"  role="img" /> </div>
+<img width="1110" height="1305" src="../../wp-content/uploads/2021/11/design.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1110px) 100vw, 1110px" role="img" /> </div>
 <div class="projectCard_info">
 <h3 class="projectCard_info_heading heading__medium js-projectCard--fade">
 Designing </h3>
@@ -318,11 +317,10 @@ Testing & SEO</h3>
 After everthing is in place it is time to make sure it all works perfectly. </p>
 </div>
 </div>
-</div>
 <div class="col-lg-3 col-sm-5 col-8">
-<div class="projectCard js-animation--projectCard" data-offset="0.9">
+<div class="projectCard js-animation--projectCard" data-offset="0.75">
 <div class="projectCard_thumbnail js-projectCard--fade image__object-fit">
-<img width="1534" height="1804" src="../../wp-content/uploads/2021/07/launch.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1534px) 100vw, 1534px" role="img" /> </div>
+<img width="1110" height="1305" src="../../wp-content/uploads/2021/07/launch.jpg" class="attachment-full size-full js-image--lazy" alt="" sizes="(max-width: 1110px) 100vw, 1110px" role="img" /> </div>
 <div class="projectCard_info">
 <h3 class="projectCard_info_heading heading__medium js-projectCard--fade">
 Launch </h3>
